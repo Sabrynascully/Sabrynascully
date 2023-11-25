@@ -1,7 +1,7 @@
 ### Olá, Eu sou a Sabryna 👋
 
 
-- 🔭 Desenvolvedora full stack web jr em formação 
+- 🔭 Desenvolvedora web frontend
 - 😄 Pronouns: Ela/Dela
 
 <div align="center">
