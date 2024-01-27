@@ -1,6 +1,6 @@
   <h1> Hi, I'm Sabrina Marques! 💻</h1>
   
-  - 🔭 Desenvolvedora web frontend
+  - 🔭 Desenvolvedora web front end
 - 😄 Pronouns: Ela/Dela
 
 
